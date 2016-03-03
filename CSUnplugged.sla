@@ -4116,7 +4116,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="108" PTYPE="4" XPOS="735.75" YPOS="47763" WIDTH="514.53" HEIGHT="34.0599999999758" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Source Han Sans Normal" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514.53 0 514.53 0 514.53 0 514.53 0 514.53 34.06 514.53 34.06 514.53 34.06 514.53 34.06 0 34.06 0 34.06 0 34.06 0 34.06 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514.53 0 514.53 0 514.53 0 514.53 0 514.53 34.06 514.53 34.06 514.53 34.06 514.53 34.06 0 34.06 0 34.06 0 34.06 0 34.06 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Source Han Sans Normal" FONTSIZE="12" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="這個活動會告訴你電腦是如何針對現實生活的問題找出最好的解決辦法，像是房子之間的電力線是如何連結的。讓同學們用第 xxxx 頁的活動學習單，裡面會說明何謂「泥濘城市問題」。"/>
+            <ITEXT FONT="Source Han Sans Normal" FONTSIZE="12" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" CH="這個活動會告訴你電腦是如何針對現實生活的問題找出最好的解決辦法，像是房子之間的電力線是如何連結的。讓同學們用第 100 頁的活動學習單，裡面會說明何謂「泥濘城市問題」。"/>
             <trail LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -5941,7 +5941,8 @@
             <ITEXT FONT="Source Han Sans Normal" FONTSIZE="12" CH="3. 讓學生試試看用繩子或有彈性的物品去連接每個釘子，測量最小所需的長度並且記錄起來。在這個階段還不要加入使用任何斯坦納點。（因此這個階段，要達到總長度的最小值，要把正方形的三邊接起來，如圖 (b)，總長度為 3 公尺。）"/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="Source Han Sans Normal" FONTSIZE="12" CH="4. 現在讓學生加入一個斯坦納點，看看有沒有更短的解法。（最好的點在正方形的中心，如圖 (c)。總長度為2√2 好了之後，讓大家）放兩個斯坦納點，看看能不能得到更好的解法。(可以，把兩個點擺在（圖 (d) 的地方，道路之間形成120度的夾角。總長度為1 + √3 = 2 .73 公尺。)"/>
+            <ITEXT FONT="Source Han Sans Normal" FONTSIZE="12" CH="4. 現在讓學生加入一個斯坦納點，看看有沒有更短的解法。（最好的點在正方形的中心，如圖 (c)。總長度為2√2 ）好了之後，讓大家放兩個斯坦納點，看看能不能得到更好的解法。（可以，把兩個點擺在圖 (d) 的地方，道路之間形成120度的夾角。總長度為1 + √3 = 2 .73 公尺。"/>
+            <ITEXT CH="）"/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="Source Han Sans Normal" FONTSIZE="12" CH="如果加入三個斯坦納點會有更好的解答嗎？（不 ─ 加入兩個點已經是最佳解了。再多並不會得到更好的解答。"/>
@@ -5987,7 +5988,7 @@
             <ITEXT FONT="Source Han Sans Normal" FONTSIZE="12" CH="1. 如果有幾組提早完成前面的活動，可以讓他們進行一個有趣的實驗。圖 (a) 是個長 2 公尺寬 1 公尺的矩形。讓他們試試同樣的活動，學生們會發現加入一個斯坦納點反而會讓事情變糟，但是加入二個點則可以得到較短的路徑。（圖 (b) 的路徑長是 4 公尺，圖 (c) 是 2√5 = 4.47 公尺，而圖 (d) 是 2 + √3 = 3.73 公尺。）看看他們能不能夠找出為什麼在長方形中加入一個斯坦納點反而會比在正方形裡加入還糟。（這是因為當正方形拉長成長方形時，在圖 (b) 和 (d) 伸長量只有一條會增加，但圖 (c) 卻是兩條對角線都增加。）"/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="Source Han Sans Normal" FONTSIZE="12" CH="2. 較年長的學生可以試試較大型的題目。他們可以在學習活動單上的兩張圖實驗不同的解決方式。可以把圖印出來，或用白板筆寫在蓋著透明投影片的圖上。或者到戶外去，用釘子在地上標記出來。當他們每次創下最短總距離的紀錄時可以跟其他人分享。（右圖顯示的是兩種第二個範例的兩個可能的解法。兩種方式的距離相當接近。）這兩種解法如此接近，也說明為什麼這類問題會這麼困難 ─ 要在哪裡放置斯坦納點，有太多種選擇了。"/>
+            <ITEXT FONT="Source Han Sans Normal" FONTSIZE="12" CH="2. 較年長的學生可以試試較大型的題目。他們可以在學習活動單上的兩張圖實驗不同的解決方式。可以把圖印出來，或用白板筆寫在蓋著透明投影片的圖上。或者到戶外去，用釘子在地上標記出來。當他們每次創下最短總距離的紀錄時可以跟其他人分享。（右圖是第一個範例的最佳解，而下頁的圖顯示的是兩種第二個範例的兩個可能的解法。兩種方式的距離相當接近。）這兩種解法如此接近，也說明為什麼這類問題會這麼困難 ─ 要在哪裡放置斯坦納點，有太多種選擇了。"/>
             <trail LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
