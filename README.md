@@ -1,5 +1,5 @@
-# CSUnplugged-zh_TW
-zh-TW translation files for the book CSUnplugged.
+# CSUnplugged-cmn
+cmn translation files for the book CSUnplugged.
 
 The current version is 3.2.2.
 
